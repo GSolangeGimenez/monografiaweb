@@ -1,0 +1,85 @@
+
+h1#Encabezado{
+font-family: 'Aclonica', sans-serif;
+font-family: 'Oswald', sans-serif;
+margin-top: 10px;
+margin-bottom: 10px;
+}
+#clasificacion{
+    font-family: sans-serif;
+    font-size: 18px;
+    max-width: 700px;
+    color: rgba(255, 255, 255, 0.87);
+}
+figure{
+margin-top: 30px;
+margin-bottom: 30px;
+margin-left: 0;
+}
+
+p{
+    font-family: sans-serif;
+    font-size: 18px;
+    max-width: 700px;
+    color: rgba(255, 255, 255, 0.87);
+}
+.versus{
+    font-family: 'Aclonica', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    margin: 10px;
+    font-size: 48px;
+    }
+
+.navegador{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10px;
+}
+
+h1{
+    font-family: 'Aclonica', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-size: 27px;
+    color: rgb(156, 18, 18);
+    padding-top: 60px;
+    }
+ h2{    font-family: 'Aclonica', sans-serif;
+        font-family: 'Oswald', sans-serif;
+        font-size: 27px;
+        color: rgb(156, 18, 18);
+    }
+h3{
+    font-family: 'Aclonica', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-size: 27px;
+    color: rgb(156, 18, 18) ;
+}
+h1,h2,h3{
+    text-transform: uppercase;
+}
+p{
+    font-weight: 27px;
+}
+body{
+    max-width: 1200px;
+    margin:0 auto;
+    padding: 60px;
+    background-image: url("img/fondo");
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 100%;
+    width: 100%;
+    border-style: unset;
+}
+main{
+ background-color: rgba(0, 0, 0, 0.384);
+ padding: 60px;
+}
+a:hover{
+color: blueviolet;
+}
+a:active {
+    color: rgb(156, 18, 18);
+}
+*{
+    margin: 0;
+}
